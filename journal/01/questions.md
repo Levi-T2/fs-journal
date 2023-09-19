@@ -7,13 +7,17 @@
     > | Used to make a folder/directory that you can use to store stuff in.|
 
 03. What is a ***pseudo-class*** and what are some of the most common ones you think you will use?
-    > | ANSWER HERE |
+    > | A pseudo-class is something that you add to the selector that tells it to do something to one of
+    the elements selected within it. I think I'll end up using the different child pseudo-classes as they could help with targeting
+    a specific element within the parent element.|
 
 04. What is ***specificity*** and how might you use it to your benefit?
-    > | ANSWER HERE |
+    > | Its the value that are assigned to selectors. CSS uses it to determine what properties to apply to your
+    elements based on what specificity each of your selectors was set to. Even if a selector is placed above another, if the specificity of the other one is higher it will uses those properties.|
 
 05. What problems do you think you could run into if you over-utilized the `!important` feature?
-    > | ANSWER HERE |
+    > | It would mess with the specificity and eventually it would be difficult to change certain values as 
+    they would all have the same level of specificity that the important assigned to them. |
 
 06. What are the three components that makeup a `CSS` rule? <br> Example:
 
