@@ -1,9 +1,10 @@
 # Foundations of Web Development
 01. In your own words, why do we use Git?
-    > | ANSWER HERE |
+    > | Best service available for developers to work with other members and being able to push and pull code so
+    that everyone has the same project. |
 
 02. In the terminal, what is the command `mkdir` used for?
-    > | ANSWER HER|
+    > | Used to make a folder/directory that you can use to store stuff in.|
 
 03. What is a ***pseudo-class*** and what are some of the most common ones you think you will use?
     > | ANSWER HERE |
@@ -21,7 +22,7 @@
             color: rgba(255, 210, 33, .75);
         }
     ```
-
+ 
     > | ANSWER HERE |
 
 07. How do you think good design influences people when visiting a website, and what sorts of things could you convey through design alone?
