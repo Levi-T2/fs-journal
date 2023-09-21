@@ -3,4 +3,4 @@
 * **[Repo](https://github.com/Levi-T2/fs-journal)**
 * **[Repo](https://github.com/Levi-T2/coolsite)**
 * **[Repo](https://github.com/Levi-T2/clonesite)**
-* **[Repo](https://github.com/Levi-T2/<ASSIGNMENT_REPO>)**
+* **[Repo](https://github.com/mattwong91/partner-clone)**
