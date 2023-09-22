@@ -27,19 +27,19 @@
         }
     ```
  
-    > | ANSWER HERE |
+    > | The three css components are selector, which is the first thing you write in css and in this example is <h1>. The second is the property, or what your directly changing, which in this example is color. The third is value, which determines how much your changing a certain property, which in this case is our rgba value. |
 
 07. How do you think good design influences people when visiting a website, and what sorts of things could you convey through design alone?
-    > | ANSWER HERE |
+    > | Good design matters heavily when visiting a website as people like looking at pretty things; not only that a good designed webpage is easier to read and makes accessibility to your website better. You can convey your websites tone through design and whether its a website catering towards more commercial clients, or just basic users who are trying to visit your site. |
 
 08. What is the purpose of ***wireframing***?
-    > | ANSWER HERE |
+    > | We use wireframing to get a rough estimate of how we want to layout our webpage. By using wireframing, it can accelerate the process of us creating our page and can help with the transition from mobile to desktop as well. |
 
 09. Do you think wireframes are worth the time, energy, and effort that they require? Why or Why not?
-    > | ANSWER HERE |
+    > | I personally really like wireframing and I think it helps me with using bootstrap and setting up my webpage in a nice and organized matter. While it can take some time to do in the long run it speeds up the design process a lot in my opinion. |
 
 10. Define the display `:flex property:`
-    > | ANSWER HERE |
+    > | The flex property is an easy way to change the sizing, spacing, and centering of elements. There are a lot of different properties that effect them, and they are used pretty commonly in web development. |
 
 11. What `CSS` properties affect the size of a box model?
-    > | ANSWER HERE |
+    > | Properties like padding and margin effect the size of the box model by expanding the space around the content box. Changing properties in the content box as well such as font size and weight can change the size of the box as well. |
