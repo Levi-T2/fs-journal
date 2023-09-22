@@ -27,7 +27,7 @@
         }
     ```
  
-    > | The three css components are selector, which is the first thing you write in css and in this example is <h1>. The second is the property, or what your directly changing, which in this example is color. The third is value, which determines how much your changing a certain property, which in this case is our rgba value. |
+    > | The three css components are selector, which is the first thing you write in css and in this example is h1. The second is the property, or what your directly changing, which in this example is color. The third is value, which determines how much your changing a certain property, which in this case is our rgba value. |
 
 07. How do you think good design influences people when visiting a website, and what sorts of things could you convey through design alone?
     > | Good design matters heavily when visiting a website as people like looking at pretty things; not only that a good designed webpage is easier to read and makes accessibility to your website better. You can convey your websites tone through design and whether its a website catering towards more commercial clients, or just basic users who are trying to visit your site. |
