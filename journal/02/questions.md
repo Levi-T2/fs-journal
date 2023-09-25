@@ -1,7 +1,7 @@
 # Intro to JavaScript
 01. Which keywords are used to declare a variable in JavaScript?
 
-    > | ANSWER HERE |
+    > | You can use let, var, and const, but they differ slightly from each other. |
 
 02. What is the definition of a function?
 
