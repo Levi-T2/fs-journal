@@ -5,7 +5,8 @@
 
 02. What is the definition of a function?
 
-    > | ANSWER HERE |
+    > | Functions are made in Js and they are subprograms of code that are used to execute certain tasks within
+    Js. They are important to use in Js and need to be invoked to be used. |
 
 03. What are the `SOLID` principles?
 
