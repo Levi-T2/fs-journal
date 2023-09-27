@@ -10,7 +10,13 @@
 
 03. What are the `SOLID` principles?
 
-    > | ANSWER HERE |
+    > | The solid principles is an acronym that outlines five design principles that shouldn't be broken. 
+    S - Single Responsibility - a class should only have one job.
+    O - Open Closed - a class should be able to be modified without having to change the class itself.
+    L 
+    I
+    D
+    |
 
 04. Given this array: How could you remove the `pineapple`?
 
@@ -18,7 +24,8 @@
     let fruit = ['apple', 'banana', 'pineapple', 'orange', 'strawberry']
     ```
 
-    > | ANSWER HERE |
+    > |  I would use the function delete and then index to fruit at 2. This would get rid of pineapple but leave
+    an empty slot.|
 
 05. Given these two objects: How could you add each to the others friends arrays?
 
@@ -39,7 +46,7 @@
 
 06. Give an example of a JavaScript `Conditional`:
 
-    > | ANSWER HERE |
+    > | if statements, else statements, and else if. These are all conditionals that allow code to run. |
 
 07. What is the main difference between `parameters` and `arguments`?
 
@@ -47,7 +54,7 @@
 
 08. Instead of writing everything to the console, what is a better way to debug your code?
 
-    > | ANSWER HERE |
+    > |  |
 
 09. What is the difference between a `primitive` value and a `reference` value?
 
