@@ -13,9 +13,9 @@
     > | The solid principles is an acronym that outlines five design principles that shouldn't be broken. 
     S - Single Responsibility - a class should only have one job.
     O - Open Closed - a class should be able to be modified without having to change the class itself.
-    L 
-    I
-    D
+    L - Liskov - Every subclass should be substitutable.
+    I - Interface Segregation - Clients shouldn't be forced to use things that they don't need to use.
+    D - Dependency - Entities need to depend solely on abstractions.
     |
 
 04. Given this array: How could you remove the `pineapple`?
@@ -42,7 +42,8 @@
     }
     ```
 
-    > | ANSWER HERE |
+    > | I would write it out as you.friends = them, and them.friends = you. This would add each of the arrays into the others
+    friends variable within them. |
 
 06. Give an example of a JavaScript `Conditional`:
 
@@ -50,16 +51,16 @@
 
 07. What is the main difference between `parameters` and `arguments`?
 
-    > | ANSWER HERE |
+    > | Parameters are variables that you add that are placeholders, and don't have a value assigned to them. An argument is what you give to the function for it pass and invoke. |
 
 08. Instead of writing everything to the console, what is a better way to debug your code?
 
-    > |  |
+    > | Utilize chrome dev tools that allow you to view what line your error is being thrown from. You can also use error messages in js to throw things back. They're also debugging tools that you can put in and use in your html. |
 
 09. What is the difference between a `primitive` value and a `reference` value?
 
-    > | ANSWER HERE |
+    > | In js, a primitive value are values such as numbers, string, and booleans. These are primitive as they only have a singular value assigned to them. Reference values are things like  objects and arrays, which hold several different values that can be referenced to.  |
 
 10. Demonstrate a loop that prints the numbers between -100 and 100?
 
-    > | ANSWER HERE |
+    > | I would write it out as ( for (let i = -100; i <= 100; i++)) |
