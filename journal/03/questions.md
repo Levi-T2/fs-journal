@@ -25,16 +25,16 @@
 
 07. What is the purpose of the `MVC` pattern?
   
-  > | ANSWER HERE |
+  > | The purpose of the model, view, and controller pattern is to make large applications that would feature several developers working on them at once easier to work with and understand. The ability to create different files that can work in tandem with each other is effective a it allows developers a space to work on their code by-themselves, but still be contributing to the application.  |
 
 08. What is the job of the `Controller` in the `MVC` Pattern?
   
-  > | ANSWER HERE |
+  > | The controller is the holding place for our app.js and our controller files. Its main use to to tell our viewport what ot display and what js and html we want the user to be able to see. |
 
 09. What is the job of the `Service` in `MVC`?
   
-  > | ANSWER HERE |
+  > | The service job is to serve as the place for functions to bridge between our controller and our model in MVC. You put function here and you can call them from the controller. |
 
 10. What is the job of the `Model` in `MVC`?
   
-  > | ANSWER HERE |
+  > | The models primary job is to hold the appState, which is the location that we store user data and we can add user data to. |
