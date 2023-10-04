@@ -9,7 +9,7 @@
 
 03. What is Encapsulation?
   
-  > | ANSWER HERE |
+  > | Encapsulation is taking our several different methods and variables that we have within our Javascript and move them, or encapsulate them, into a singular class in its own js file that we can export to other js files in our application. |
 
 04. What are some of the benefits of the `Proxy` object that we are using in our structure for applications?
   
@@ -17,11 +17,11 @@
 
 05. What the difference between a `class` and an instance of a `class`?
   
-  > | ANSWER HERE |
+  > | A class in html is something that we can tie to our elements to use to mark them and manipulate them using html or css of even js. An instance of a class is us taking several functions and variables and putting them inside of a class in js, which then gets used like a container to store our things that we need. |
 
 06. What is a computed Property?
   
-  > | ANSWER HERE |
+  > | Computed property are properties in Java script that instead of taking in a parameter, they have brackets that take in an expression, or a key and a value. |
 
 07. What is the purpose of the `MVC` pattern?
   
