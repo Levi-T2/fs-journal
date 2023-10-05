@@ -5,7 +5,7 @@
 
 02. How does `export` differ from `export default`?
   
-  > | ANSWER HERE |
+  > | Both of these functions export your code to be used within other js files, but export default only gives out one value from what you've written in it. |
 
 03. What is Encapsulation?
   
@@ -13,7 +13,7 @@
 
 04. What are some of the benefits of the `Proxy` object that we are using in our structure for applications?
   
-  > | ANSWER HERE |
+  > | Proxy's are useful for adding more functionality to basic js functions by introducing a handler object, that we can manipulate and integrate into our proxy object. |
 
 05. What the difference between a `class` and an instance of a `class`?
   
