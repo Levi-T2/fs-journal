@@ -1,7 +1,7 @@
 # Application Architecture, MVC Design Pattern
 01. What are the Pillars of Object Oriented Programming (`OOP`)?
   
-  > | ANSWER HERE |
+  > | They are general guidelines that your meant to follow when developing that keep your projects clean and organized while also helping with debugging and speeding up your coding. They are data abstraction, encapsulation, inheritance, and polymorphism. Their methods can be used across a wide range of programming languages and applications.|
 
 02. How does `export` differ from `export default`?
   
