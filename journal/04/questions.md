@@ -21,7 +21,7 @@
 
 06. Name three processes used to make requests over `HTTP`?
 
-  > | ANSWER HERE |
+  > | Three of the processes that are used are .get, which grabs all the data from the api and imports it to us. A .post pushes our newly created objects into our api, and . delete deletes our objects from the api. All of these send and receive requests. |
 
 07. What does the `API` acronym stand for?
 
