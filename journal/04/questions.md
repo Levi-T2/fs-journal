@@ -1,7 +1,7 @@
 # Understanding Asynchronous Code, and API's
 01. What is the difference between `asynchronous` code and `synchronous` code?
 
-  > | ANSWER HERE |
+  > | All code thats normally written is synchronous, which means it runs line by line going down the page, and if something takes to long the task gets skipped over. With asynchronous code it can be invoked to run, and while its being run other pieces of code can be run as well. |
 
 02. What is an event listener?
 
@@ -37,7 +37,7 @@
 
 10. What is `HTTP` response code for a successful request?
 
-  > | ANSWER HERE |
+  > | HTTP - 200 or ok is the code for when you make a request and its successfully given. |
 
 11. What is a 400 error?
 
