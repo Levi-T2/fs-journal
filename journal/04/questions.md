@@ -5,7 +5,7 @@
 
 02. What is an event listener?
 
-  > | ANSWER HERE |
+  > | An event listener is something like a string within your Appstate.on that listeners for a key to change or be emitted in order to run the specified function. |
 
 03. What does *REST* stand for, and in simple terms what does it mean??
 
@@ -29,7 +29,7 @@
 
 08. What must you do in order to `await` a promise inside of a function?
 
-  > | ANSWER HERE |
+  > | In order to be able to wait for a function, you need to add the async tag to it so it can run asynchronously with the rest of your code. |
 
 09. What is the purpose of encapsulation in programming?
 
@@ -41,4 +41,4 @@
 
 11. What is a 400 error?
 
-  > | ANSWER HERE |
+  > | An HTTP error 400 is a bad request error and usually means that you tried to request something incorrectly within your code. |
