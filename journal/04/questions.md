@@ -17,7 +17,7 @@
 
 05. What is a `promise`? How do you capture an error from a `promise`?
 
-  > | ANSWER HERE |
+  > | A promise in JS is a guarantee that we make that we will do something in the future. Once the promise completes it has two outcomes, either resolved or rejected. We can capture the error by looking at our rejected catch by using a try catch wih error.|
 
 06. Name three processes used to make requests over `HTTP`?
 
@@ -25,7 +25,7 @@
 
 07. What does the `API` acronym stand for?
 
-  > | ANSWER HERE |
+  > | API stands for Application Programming Interface. |
 
 08. What must you do in order to `await` a promise inside of a function?
 
