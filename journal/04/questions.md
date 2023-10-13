@@ -9,11 +9,11 @@
 
 03. What does *REST* stand for, and in simple terms what does it mean??
 
-  > | ANSWER HERE |
+  > | Rest stands for representational state transfer. It was made to force APIs into specific guidelines to follow so that  they were easy to access and utilize.  |
 
 04. What is a callback / higher order function?
 
-  > | ANSWER HERE |
+  > | A callback function takes in a function as its argument to use. Then it can be utilized or invoked during the higher order function. |
 
 05. What is a `promise`? How do you capture an error from a `promise`?
 
@@ -33,7 +33,7 @@
 
 09. What is the purpose of encapsulation in programming?
 
-  > | ANSWER HERE |
+  > | The purpose of encapsulation is to limit the amount of access the user has to the components of your webpage. This makes for a safer and more secure webpage and is crucial in protecting user data.|
 
 10. What is `HTTP` response code for a successful request?
 
