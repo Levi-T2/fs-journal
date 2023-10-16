@@ -1,7 +1,7 @@
 # Intro to Server side concerns with JavaScript
 01. What do the letters of the acronym `CRUD` stand for?
 
-  > | ANSWER HERE |
+  > | The C in crud stands for create, R is for read, U is for update, and D is for delete. These all are for working with an API. |
 
 02. Each action that `CRUD` represents maps to an HTTP request. What HTTP request does each `CRUD` action correspond to?
 
