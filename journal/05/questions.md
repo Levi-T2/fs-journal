@@ -9,7 +9,7 @@
 
 03. What does `ORM` stand for? Which `ORM` do we use when interacting with MongoDB
 
-  > | ANSWER HERE |
+  > | ORM stands for object relation mapping and its important for how we are able to get our information put up onto our database. We use mongoose for this. |
 
 04. Which two `HTTP` request types include a body?
 
@@ -17,7 +17,7 @@
 
 05. In a/an _______ coding model, when you call a function, it returns only when the action has finished and stops your program for the time the action takes. Likewise in a/an _______ coding model, multiple things are allowed to happen at one time. When you perform an action, your program continues to run.  Fill in the blanks.
 
-  > | ANSWER HERE |
+  > | The first blank is synchronous, and the second is asynchronous and await. |
 
 06. What are the three types of data relationships? Provide an example of each.
 
@@ -25,7 +25,7 @@
 
 07. What is middleware?
 
-  > | ANSWER HERE |
+  > | Middleware is software that does the job for us when it comes to us communicating between our database. Mongoose is an example of middleware that we use frequently. |
 
 08. The ______ pipeline delivers information from the client while the ______ pipeline returns it. Fill in the blanks. 
 
