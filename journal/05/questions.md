@@ -5,7 +5,7 @@
 
 02. Each action that `CRUD` represents maps to an HTTP request. What HTTP request does each `CRUD` action correspond to?
 
-  > | ANSWER HERE |
+  > | C in crud stands for .post, R stands for .get, U stands for .put, and D stands for .delete. |
 
 03. What does `ORM` stand for? Which `ORM` do we use when interacting with MongoDB
 
@@ -13,7 +13,7 @@
 
 04. Which two `HTTP` request types include a body?
 
-  > | ANSWER HERE |
+  > | .Put and .post are the two methods that pass through data from out request and give it to our database. |
 
 05. In a/an _______ coding model, when you call a function, it returns only when the action has finished and stops your program for the time the action takes. Likewise in a/an _______ coding model, multiple things are allowed to happen at one time. When you perform an action, your program continues to run.  Fill in the blanks.
 
@@ -29,7 +29,7 @@
 
 08. The ______ pipeline delivers information from the client while the ______ pipeline returns it. Fill in the blanks. 
 
-  > | ANSWER HERE |
+  > | Server, Client. |
 
 09. Demonstrate the pattern that is used to include a request query with the client's `HTTP` request providing the property `tag` and the value `winter`.
 
@@ -37,4 +37,4 @@
 
 10. What is a ***virtual property***?
 
-  > | ANSWER HERE |
+  > | We use virtual properties on our Schemas to pass through more information about our objects in our request. They take our models and pass through extra info based on what we give them. |
