@@ -21,7 +21,7 @@
 
 06. What are the three types of data relationships? Provide an example of each.
 
-  > | ANSWER HERE |
+  > | One to One = A relationship between just two things. Each hold single variables that only link to other single variables. One to Many = A data relationship were an object has many different objects on it but those objects are only on that larger object. Many to Many = A relationship where something might have many contributors, and those contributors might have made many other projects. |
 
 07. What is middleware?
 
@@ -33,7 +33,8 @@
 
 09. Demonstrate the pattern that is used to include a request query with the client's `HTTP` request providing the property `tag` and the value `winter`.
 
-  > | ANSWER HERE |
+  > | const test = await .get(req.query.winter , req.query.tag) res.send(test)|
+
 
 10. What is a ***virtual property***?
 
