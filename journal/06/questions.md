@@ -5,7 +5,7 @@
 
 02. What is the difference between a vue `component` and `page`?
 
-  > | ANSWER HERE |
+  > | A page in vue is essentially like the views that are set up in mvc, but are individual files that contain js, css, and html. Components are pieces of vue that we can input into our page model to make our code easier to debug and read. |
 
 03. What is ***Component-Based Architecture***?
 
