@@ -17,7 +17,7 @@
 
 05. What are ***lifecycle hooks***? What are lifecycle hooks used for?
 
-  > | ANSWER HERE |
+  > | Lifecycle hooks are put in our setup and run on page load or mount and unmount. They are used similar to constructors and are helpful for bringing in data from an API. |
 
 06. Which component in Vue does the vue-router use to mount pages onto?
 
@@ -33,7 +33,7 @@
 
 09. What are ***props*** and how are they used? Provide an example
 
-  > | ANSWER HERE |
+  > | Props are things that we bind onto our components to send through data from a v-for loop. Once we bind these we can use all their data that we set up to grab to reference to in our curly brackets. An example would be setting up our prop in our component, then when we bring in our component we add :propName="thing" onto it to bring all that data in. |
 
 10. What is the Vue method used to create watchable objects such as `state` or `AppState`?
 
