@@ -1,7 +1,7 @@
 # Single Page Applications with Vue
 01. What is the entrypoint of an application?
 
-  > | ANSWER HERE |
+  > | The entrypoint for our application in vue is our app.vue, which links us to our pages and components that will show up for the user. |
 
 02. What is the difference between a vue `component` and `page`?
 
@@ -9,7 +9,7 @@
 
 03. What is ***Component-Based Architecture***?
 
-  > | ANSWER HERE |
+  > | Component-based Architecture is what Vue uses. It is a way of coding that allows us to speed up the process by having reusable components we can use anywhere in our vue files. It keeps our code cleaner as well.|
 
 04. What are the three tags that make up a Vue component?
 
@@ -21,7 +21,7 @@
 
 06. Which component in Vue does the vue-router use to mount pages onto?
 
-  > | ANSWER HERE |
+  > | Pages in view are gotten by our router-links that we set up in our templates to tell vue where to go and to load new views either on click or page load. |
 
 07. What is the difference between the `AppState` and the state object within a component?
 
