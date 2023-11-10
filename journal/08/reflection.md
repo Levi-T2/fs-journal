@@ -6,3 +6,5 @@ This reflection is open-format, so it can be whatever you like. Take this opport
 - What did you learn that was a shock or surprise?
 - What are you struggling with?
 - What would you count as a victory?
+
+| Still working on my capstone but its going well so far. Most of the stuff we have wanted to put into our application has worked so far. I learned more stuff about how to send objects back in get requests, which is something I wanted to learn. Overall, I think our capstone can get finished on time. |
