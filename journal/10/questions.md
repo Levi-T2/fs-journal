@@ -1,7 +1,7 @@
 # CSharp and SQL Fundamentals
 01. What is the purpose of a `namespace`?
 
-  > | ANSWER HERE |
+  > | In C#, namespaces basically act like our imports and exports from js, but better as they function more like folders that you can pull in and out from, and code can be accessed in more places. |
 
 02. What is the difference between a `class` and an `interface`?
 
@@ -29,7 +29,7 @@
 
 06. In the Car example what is `string` an indication of?
 
-  > | ANSWER HERE |
+  > | String is the type of property that is expected to be returned. |
 
 07. In the Car example what is `abstract` preventing?
 
