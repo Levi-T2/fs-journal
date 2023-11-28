@@ -25,7 +25,7 @@
   }
   ```
 
-  > | ANSWER HERE |
+  > | The access modifier on car is public, meaning it can basically be accessed anywhere in the namespace. |
 
 06. In the Car example what is `string` an indication of?
 
@@ -37,11 +37,17 @@
 
 08. In a SQL table, what is the difference between information in a row and information in a column?
 
-  > | ANSWER HERE |
+  > | Information in a row would contain a single property, like id, over several columns, like 1, 2, 3, and so on. A column contains several Properties about just one object.  |
 
 09. Demonstrate the necessary SQL for creating a table called `characters` with the values `name, age, description` as strings, and an `int` id.
 
-  > | ANSWER HERE |
+  > | CREATE TABLE character(
+      id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+      name CHAR(255) NOT NULL,
+      age CHAR(255) NOT NULL,
+      description VARCHAR(5500) NOT NULL
+  ) default charset utf8
+  |
 
 10. In SQL how can you query more than a single table? Provide an example.
 
