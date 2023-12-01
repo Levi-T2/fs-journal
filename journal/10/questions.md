@@ -5,11 +5,11 @@
 
 02. What is the difference between a `class` and an `interface`?
 
-  > | ANSWER HERE |
+  > | A class is typically a declaration that can be used to contain either properties to build a model off of, or to hold many methods. An object that is on a class would be an instance of that object. |
 
 03. What is the method that returns an instance of a class, yet it has no return type?
 
-  > | ANSWER HERE |
+  > | A constructor can return an instance of a class without needing to return it. |
 
 05. In the Car example what is the access modifier of the `Start()` method?
 
@@ -33,7 +33,7 @@
 
 07. In the Car example what is `abstract` preventing?
 
-  > | ANSWER HERE |
+  > | Abstract means that the class has to be inherited so it can be access. Methods and models made on it will also need to be inherited. |
 
 08. In a SQL table, what is the difference between information in a row and information in a column?
 
@@ -46,9 +46,9 @@
       name CHAR(255) NOT NULL,
       age CHAR(255) NOT NULL,
       description VARCHAR(5500) NOT NULL
-  ) default charset utf8
+  ) default charset utf8 
   |
 
 10. In SQL how can you query more than a single table? Provide an example.
 
-  > | ANSWER HERE |
+  > | In SQL we can query several tables by using the JOIN func.  SELECT * FROM example JOINS account.|
