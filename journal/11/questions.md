@@ -17,7 +17,7 @@
 
 5. What is an ***alias***?
 
-  > | ANSWER HERE |
+  > | An alais in c# is a command that can be accessed from two or more different name or "aliases" |
 
 6. Demonstrate how you would query a join statement that would get all of a doctors patients from the following collections:
 
@@ -47,4 +47,4 @@
 
   ```
 
-  > | ANSWER HERE |
+  > | SELECT doc.*, pat.* FROM doctors doc JOINS patient pat ON doc. = pat.|
